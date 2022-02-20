@@ -1,0 +1,19 @@
+cite {
+    font-style: italic;
+    color:deepskyblue;
+}
+
+h1 {
+     color:bisque;
+}
+
+.texto_resaltado {
+    color:#ff00ff;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color:#193B3D;
+}
